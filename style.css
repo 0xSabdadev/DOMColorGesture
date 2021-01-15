@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&display=swap');
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+.kotak {
+    width: 35px;
+    height: 35px;
+    margin: 10px auto;
+}
+
+.merah {
+    background-color: red;
+}
+
+.hijau {
+    background-color: greenyellow;
+}
+
+.biru {
+    background-color: blue;
+}
+
+.ubah {
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
